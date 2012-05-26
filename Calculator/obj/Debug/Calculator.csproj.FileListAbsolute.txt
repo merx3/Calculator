@@ -1,0 +1,10 @@
+C:\Users\Merx3\Documents\Visual Studio 2010\Projects\RandNumbers_WebControls\RandNumbers_WebControls\Calculator\bin\Calculator.dll
+C:\Users\Merx3\Documents\Visual Studio 2010\Projects\RandNumbers_WebControls\RandNumbers_WebControls\Calculator\bin\Calculator.pdb
+C:\Users\Merx3\Documents\Visual Studio 2010\Projects\RandNumbers_WebControls\RandNumbers_WebControls\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Merx3\Documents\Visual Studio 2010\Projects\RandNumbers_WebControls\RandNumbers_WebControls\Calculator\obj\Debug\Calculator.dll
+C:\Users\Merx3\Documents\Visual Studio 2010\Projects\RandNumbers_WebControls\RandNumbers_WebControls\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Merx3\Desktop\ASP.NET-Web-Controls-and-HTML-Controls-Demos\ASP.NET - WebControls Homework\Calculator\bin\Calculator.dll
+C:\Users\Merx3\Desktop\ASP.NET-Web-Controls-and-HTML-Controls-Demos\ASP.NET - WebControls Homework\Calculator\bin\Calculator.pdb
+C:\Users\Merx3\Desktop\ASP.NET-Web-Controls-and-HTML-Controls-Demos\ASP.NET - WebControls Homework\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Merx3\Desktop\ASP.NET-Web-Controls-and-HTML-Controls-Demos\ASP.NET - WebControls Homework\Calculator\obj\Debug\Calculator.dll
+C:\Users\Merx3\Desktop\ASP.NET-Web-Controls-and-HTML-Controls-Demos\ASP.NET - WebControls Homework\Calculator\obj\Debug\Calculator.pdb
